@@ -14,7 +14,7 @@ module.exports = {
       },
       options: {
         name: `entry`,
-        path: `${__dirname}/src/entry`,
+        path: `${__dirname}/src/entries`,
       }
     },
     `gatsby-transformer-sharp`,
