@@ -13,8 +13,8 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
       options: {
-        name: `entries`,
-        path: `${__dirname}/src/entries`,
+        name: `entry`,
+        path: `${__dirname}/src/entry`,
       }
     },
     `gatsby-transformer-sharp`,
